@@ -12,4 +12,4 @@ This is my portfolio for Product analysis internship
 ### My code examples
 
 - `sql_queries.sql` — real queries with joins, windows, aggregations  
-- `data_analysis.ipynb` — data analysis (pandas + plots)
+- `data_analysis.py` — data analysis (pandas + plots)
